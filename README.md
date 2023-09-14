@@ -11,10 +11,10 @@ GNN_GK
 ## DKD
 |Method|Title|Link|Time|
 |:---:|:---:|:---:|:---:|
-|Kernel NN |Deriving neural architectures from sequence and graph kernels |[Paper](http://proceedings.mlr.press/v70/lei17a/lei17a.pdf) |2021 AAAI|
-|Pre-DGCN |Distilling Holistic Knowledge with Graph Neural Networks |[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Distilling_Holistic_Knowledge_With_Graph_Neural_Networks_ICCV_2021_paper.pdf) |2021 ICCV|
-|KCNN |Context-Aware Graph Inference with Knowledge Distillation for Visual Dialog |[Paper](https://pubmed.ncbi.nlm.nih.gov/34061738/) |2021 TPAMI|
-|RWNN |Distilling Knowledge from Well-Informed Soft Labels for Neural Relation Extraction |[Paper](https://ojs.aaai.org//index.php/AAAI/article/view/6509) |2020 AAAI |
+|Kernel NN |Deriving neural architectures from sequence and graph kernels |[Paper](http://proceedings.mlr.press/v70/lei17a/lei17a.pdf) |2017 PMLR|
+|Pre-DGCN |Pre-training graph neural networks with kernels |[Paper](https://arxiv.org/pdf/1811.06930.pdf) |2018 NIPS|
+|KCNN |Kernel graph convolutional neural networks |[Paper](https://pubmed.ncbi.nlm.nih.gov/34061738/) |2018 Springer|
+|RWNN |Random walk graph neural networks |[Paper](https://proceedings.neurips.cc/paper/2020/file/ba95d78a7c942571185308775a97a3a0-Paper.pdf) |2020 NeurIPS |
 |GKNN |Knowledge Transfer Graph for Deep Collaborative Learning  |[Paper](https://arxiv.org/pdf/1909.04286.pdf) |2019 ACCV|
 |VES |Graph-based Knowledge Distillation by Multi-head Attention Network |[Paper](https://arxiv.org/pdf/1907.02226.pdf) |2019 BMVC |
 |CKGCN |Knowledge Distillation via Instance Relationship Graph |[Paper](https://ieeexplore.ieee.org/document/8953802) |2019 CVPR |
