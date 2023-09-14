@@ -27,19 +27,19 @@ GNN_GK
 |Twin-GNN |Twin Weisfeiler-Lehman: High Expressive GNNs for Graph Classification |[Paper](https://arxiv.org/pdf/2203.11683.pdf) |2022|
 |FusedMM |Fusedmm: A unified sddmm-spmm kernel for graph embedding and graph neural networks |[Paper](https://arxiv.org/pdf/2011.06391.pdf) |2021 IEEE|
 |ESSPMM |Accelerating spmm kernel with cache-first edge sampling for graph neural networks |[Paper](https://arxiv.org/pdf/2104.10716.pdf) |2021|
-|GKAT |Graph Consistency based Mean-Teaching for Unsupervised Domain Adaptive Person Re-Identification |[Paper](https://arxiv.org/pdf/2105.04776.pdf) |2021 IJCAI|
-|GNTK |Saliency Prediction with External Knowledge |[Paper](https://ieeexplore.ieee.org/document/9423113) |2021 WACV|
-|Node with GNTK |Learning student networks via feature embedding |[Paper](https://ieeexplore.ieee.org/document/9007474) |2020 TNNLS|
-|Residuals GNTK |Inter-Region Affinity Distillation for Road Marking Segmentation |[Paper](https://ieeexplore.ieee.org/document/9156309) |2020 CVPR|
-|Fast GNTK | Relational knowledge distillation |[Paper](https://ieeexplore.ieee.org/document/8954416) |2019 CVPR|
-|WNTK |Correlation congruence for knowledge distillation |[Paper](https://ieeexplore.ieee.org/document/9009071) |2019 ICCV|
-|KP-GNN|Similarity-preserving knowledge distillation |[Paper](https://ieeexplore.ieee.org/document/9010328) |2019 ICCV|
-|AKGNN |KDExplainer: A Task-oriented Attention Model for Explaining Knowledge Distillation |[Paper](https://arxiv.org/abs/2105.04181) |2021 IJCAI|
-|RobustGCN |Tree-like Decision Distillation |[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Song_Tree-Like_Decision_Distillation_CVPR_2021_paper.pdf) |2021 CVPR|
-|GCMNK |DualDE: Dually Distilling Knowledge Graph Embedding for Faster and Cheaper Reasoning |[Paper](https://www.zhuanzhi.ai/paper/12c6a095c207373b5e207d3375290234) |2022 WSDM|
-|MKGCN |Conditional Graph Attention Networks for Distilling and Refining Knowledge Graphs in Recommendation |[Paper](https://dl.acm.org/doi/10.1145/3459637.3482331) |2021 CIKM|
-|GBKGNN |Heterogeneous Knowledge Distillation using Information Flow Modeling |[Paper](https://ieeexplore.ieee.org/document/9157683) |2020 CVPR|
-|BKGNN |Heterogeneous Knowledge Distillation using Information Flow Modeling |[Paper](https://ieeexplore.ieee.org/document/9157683) |2020 CVPR|
+|GKAT |Graph kernel attention transformers |[Paper]() |2021|
+|GNTK |Graph neural tangent kernel: Fusing graph neural networks with graph kernels |[Paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/663fd3c5144fd10bd5ca6611a9a5b92d-Paper.pdf) |2019 NeurIPS|
+|Node with GNTK |Learning student networks via feature embedding |[Paper](https://ieeexplore.ieee.org/document/9007474) ||
+|Residuals GNTK |Inter-Region Affinity Distillation for Road Marking Segmentation |[Paper](https://ieeexplore.ieee.org/document/9156309) ||
+|Fast GNTK | Fast Graph Neural Tangent Kernel via Kronecker Sketching |[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20662) |2022|
+|WNTK |{Graph Neural Tangent Kernel: Convergence on Large Graphs |[Paper](https://arxiv.org/pdf/2301.10808.pdf) |2023|
+|KP-GNN|Node classification using kernel propagation in graph neural networks |[Paper](https://www.sciencedirect.com/science/article/pii/S0957417421000968) |2021 Elsevier|
+|AKGNN |Adaptive kernel graph neural network |[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20664) |2022|
+|RobustGCN |Node feature kernels increase graph convolutional network robustness |[Paper](https://proceedings.mlr.press/v151/el-amine-seddik22a/el-amine-seddik22a.pdf) |2022 PMLR|
+|GCMNK |Predicting drug--drug interactions by graph convolutional network with multi-kernel |[Paper](https://academic.oup.com/bib/article-abstract/23/1/bbab511/6447677?login=false) |2022 Oxford University Press|
+|MKGCN |Inferring human microbe--drug associations via multiple kernel fusion on graph neural network |[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121010546) |2022 Elsevier|
+|GBKGNN |GBK-GNN: Gated Bi-Kernel Graph Neural Networks for Modeling Both Homophily and Heterophily |[Paper](https://arxiv.org/pdf/2110.15777.pdf) |2022|
+|BKGNN |Bi-Kernel Graph Neural Network with Adaptive Propagation Mechanism for Hyperspectral Image Classification |[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121010546) |2020 Multidisciplinary Digital Publishing Institute|
 |KW-GCN |Heterogeneous Knowledge Distillation using Information Flow Modeling |[Paper](https://ieeexplore.ieee.org/document/9157683) |2020 CVPR|
 |KGAT |Heterogeneous Knowledge Distillation using Information Flow Modeling |[Paper](https://ieeexplore.ieee.org/document/9157683) |2020 CVPR|
 |KMAE |Heterogeneous Knowledge Distillation using Information Flow Modeling |[Paper](https://ieeexplore.ieee.org/document/9157683) |2020 CVPR|
