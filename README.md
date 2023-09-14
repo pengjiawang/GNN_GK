@@ -1,19 +1,18 @@
 # GNN_GK
 GNN_GK
 - [Graph-Kernel-based-on-Graph-Nueral-Network](#Graph-Kernel-based-on-Graph-Nueral-Network)
-  - [DKD](#dkd)
-  - [GKD](#gkd)
-  - [SKD](#skd)
+  - [PAPER](#paper)
+  - [CODE](#code)
 - [Citation](#citation)
 
 
 
-## DKD
+## PAPER
 |Method|Title|Link|Time|
 |:---:|:---:|:---:|:---:|
-|Kernel NN |Deriving neural architectures from sequence and graph kernels |[Paper](http://proceedings.mlr.press/v70/lei17a/lei17a.pdf) |2017 PMLR|
+|Kernel NN |Deriving neural architectures from sequence and graph kernels |[Paper](http://proceedings.mlr.press/v70/lei17a/lei17a.pdf) [Code](https://github.com/taolei87/icml17_knn)|2017 PMLR|
 |Pre-DGCN |Pre-training graph neural networks with kernels |[Paper](https://arxiv.org/pdf/1811.06930.pdf) |2018 NIPS|
-|KCNN |Kernel graph convolutional neural networks |[Paper](https://pubmed.ncbi.nlm.nih.gov/34061738/) |2018 Springer|
+|KCNN |Kernel graph convolutional neural networks |[Paper](https://pubmed.ncbi.nlm.nih.gov/34061738/) [Code](https://github.com/giannisnik/cnn-graph-classification)|2018 Springer|
 |RWNN |Random walk graph neural networks |[Paper](https://proceedings.neurips.cc/paper/2020/file/ba95d78a7c942571185308775a97a3a0-Paper.pdf) |2020 NeurIPS |
 |GKNN |Graph kernel neural networks  |[Paper](https://arxiv.org/pdf/2112.07436.pdf) |2021|
 |VES |Graph kernels combined with the neural network on protein classification |[Paper](https://www.worldscientific.com/doi/epdf/10.1142/S0219720019500306) |2019 World Scientific|
@@ -33,7 +32,7 @@ GNN_GK
 |Residuals GNTK |LABEL PROPAGATION ACROSS GRAPHS: NODE CLASSIFICATION USING GRAPH NEURAL TANGENT KERNELS |[Paper](https://arxiv.org/pdf/2110.03763.pdf) |2022 IEEE|
 |WNTK |{Graph Neural Tangent Kernel: Convergence on Large Graphs |[Paper](https://arxiv.org/pdf/2301.10808.pdf) |2023|
 |KP-GNN|Node classification using kernel propagation in graph neural networks |[Paper](https://www.sciencedirect.com/science/article/pii/S0957417421000968) |2021 Elsevier|
-|AKGNN |Adaptive kernel graph neural network |[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20664) |2022|
+|AKGNN |Adaptive kernel graph neural network |[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20664)[Code](https://github.com/jumxglhf/AKGNN) |2022|
 |RobustGCN |Node feature kernels increase graph convolutional network robustness |[Paper](https://proceedings.mlr.press/v151/el-amine-seddik22a/el-amine-seddik22a.pdf) |2022 PMLR|
 |GCMNK |Predicting drug--drug interactions by graph convolutional network with multi-kernel |[Paper](https://academic.oup.com/bib/article-abstract/23/1/bbab511/6447677?login=false) |2022 Oxford University Press|
 |MKGCN |Inferring human microbe--drug associations via multiple kernel fusion on graph neural network |[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121010546) |2022 Elsevier|
@@ -44,7 +43,7 @@ GNN_GK
 |KMAE |Kernel multi-attention neural network for knowledge graph embedding |[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121004500) |2021 Elsevier|
 |DHGK |A Deep Hybrid Graph Kernel Through Deep Learning Networks |[Paper](https://eprints.whiterose.ac.uk/132042/1/ICPR18_0789_FI.pdf) |2018 IEEE|
 |MLMKDNN |A multi-layer multi-kernel neural network for determining associations between non-coding RNAs and diseases |[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222004453) |2022 Elsevier|
-## GKD
+## CODE
 |Method|Title|Link|Time|
 |:---:|:---:|:---:|:---:|
 |HIRE | HIRE: Distilling high-order relational knowledge from heterogeneous graph neural networks|[Paper](https://www.sciencedirect.com/science/article/pii/S0925231222009961) |2022 Neurocomputing|
@@ -78,16 +77,6 @@ GNN_GK
 |EGSC |Slow Learning and Fast Inference: Efficient Graph Similarity Computation via Knowledge Distillation|[Paper](https://papers.nips.cc/paper/2021/file/75fc093c0ee742f6dddaa13fff98f104-Paper.pdf) |2021 NIPS |
 |HSKDM |A graph neural network-based node classification model on class-imbalanced graph data |[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122002374?via%3Dihub) | 2022 KBS|
 |MustaD | Compressing deep graph convolution network with multi-staged knowledge distillation|[Paper](https://pdfs.semanticscholar.org/1069/51f925eaf30eee7ba738c9b89e665cfb2f22.pdf?_ga=2.172565539.160323435.1657536794-2050460118.1606810570) |2021 PloS one |
-
-
-## SKD
-|Method|Title|Link|Time|
-|:---:|:---:|:---:|:---:|
-|LinkDist |Distilling Self-Knowledge From Contrastive Links to Classify Graph Nodes Without Passing Messages |[Paper](https://arxiv.org/pdf/2106.08541.pdf) |2021 |
-|IGSD |Iterative Graph Self-distillation |[Paper](https://arxiv.org/pdf/2010.12609.pdf) |2020 The Workshop on Self-Supervised Learning for the Web|
-|GNN-SD |On Self-Distilling Graph Neural Network |[Paper](https://arxiv.org/pdf/2011.02255.pdf) |2020 IJCAI|
-|SDSS|Multi-task Self-distillation for Graph-based Semi-Supervised Learning |[Paper](https://arxiv.org/pdf/2112.01174.pdf) |2021|
-|SAIL |SAIL: Self-Augmented Graph Contrastive Learning |[Paper](https://arxiv.org/pdf/2009.00934.pdf) |2022 AAAI |
 
 # Citation
 
