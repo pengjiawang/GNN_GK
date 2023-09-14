@@ -15,18 +15,18 @@ GNN_GK
 |Pre-DGCN |Pre-training graph neural networks with kernels |[Paper](https://arxiv.org/pdf/1811.06930.pdf) |2018 NIPS|
 |KCNN |Kernel graph convolutional neural networks |[Paper](https://pubmed.ncbi.nlm.nih.gov/34061738/) |2018 Springer|
 |RWNN |Random walk graph neural networks |[Paper](https://proceedings.neurips.cc/paper/2020/file/ba95d78a7c942571185308775a97a3a0-Paper.pdf) |2020 NeurIPS |
-|GKNN |Knowledge Transfer Graph for Deep Collaborative Learning  |[Paper](https://arxiv.org/pdf/1909.04286.pdf) |2019 ACCV|
-|VES |Graph-based Knowledge Distillation by Multi-head Attention Network |[Paper](https://arxiv.org/pdf/1907.02226.pdf) |2019 BMVC |
-|CKGCN |Knowledge Distillation via Instance Relationship Graph |[Paper](https://ieeexplore.ieee.org/document/8953802) |2019 CVPR |
-|GMKEA |Binarized Collaborative Filtering with Distilling Graph Convolutional Networks |[Paper](https://arxiv.org/pdf/1906.01829.pdf) |2019 IJCAI|
-|GCKN |Deep Geometric Knowledge Distillation with Graphs |[Paper](https://ieeexplore.ieee.org/document/9053986) |2019 ICASSP|
-|GSKN |Spatio-Temporal Graph for Video Captioning With Knowledge Distillation |[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pan_Spatio-Temporal_Graph_for_Video_Captioning_With_Knowledge_Distillation_CVPR_2020_paper.pdf) | 2020 CVPR|
-|TGNN |Meta-Knowledge Transfer for Inductive Knowledge Graph Embedding |[Paper](https://arxiv.org/pdf/2110.14170.pdf) |2022 SIGIR|
-|GraphHeat |Dark Reciprocal-Rank: Teacher-to-student Knowledge Transfer from Self-localization Model to Graph-convolutional Neural Network |[Paper](https://ieeexplore.ieee.org/abstract/document/9561158) |2021 ICRA|
-|KerGNNs |Deep Structured Instance Graph for Distilling Object Detectors |[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Deep_Structured_Instance_Graph_for_Distilling_Object_Detectors_ICCV_2021_paper.pdf) |2021 ICCV|
-|Twin-GNN |Better and Faster: Knowledge Transfer from Multiple Self-supervised Learning Tasks via Graph Distillation for Video Classification |[Paper](https://arxiv.org/pdf/1804.10069.pdf) |2018 IJCAI |
-|FusedMM |Language Graph Distillation for Low-Resource Machine Translation |[Paper](https://arxiv.org/pdf/1908.06258.pdf) |2019|
-|ESSPMM |Graph Distillation for Action Detection with Privileged Modalities |[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Zelun_Luo_Graph_Distillation_for_ECCV_2018_paper.pdf) |2018 ECCV|
+|GKNN |Graph kernel neural networks  |[Paper](https://arxiv.org/pdf/2112.07436.pdf) |2021|
+|VES |Graph kernels combined with the neural network on protein classification |[Paper](https://www.worldscientific.com/doi/epdf/10.1142/S0219720019500306) |2019 World Scientific|
+|CKGCN |Graph Neural Networks with Composite Kernels |[Paper](https://arxiv.org/pdf/2005.07869.pdf) |2020|
+|GMKEA |Graph neural networks with multiple kernel ensemble attention |[Paper](https://www.sciencedirect.com/science/article/abs/pii/S095070512100561X) |2021 Elsevier|
+|GCKN |Convolutional kernel networks for graph-structured data |[Paper](http://proceedings.mlr.press/v119/chen20h/chen20h.pdf) |2020 PMLR|
+|GSKN |Theoretically improving graph neural networks via anonymous walk graph kernels |[Paper](https://arxiv.org/pdf/2104.02995.pdf) | 2020|
+|TGNN |TGNN: A joint semi-supervised framework for graph-level classification |[Paper](https://arxiv.org/pdf/2304.11688.pdf) |2023|
+|GraphHeat |Graph convolutional networks using heat kernel for semi-supervised learning |[Paper](https://arxiv.org/pdf/2007.16002.pdf) |2020|
+|KerGNNs |Kergnns: Interpretable graph neural networks with graph kernels |[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20615) |2022|
+|Twin-GNN |Twin Weisfeiler-Lehman: High Expressive GNNs for Graph Classification |[Paper](https://arxiv.org/pdf/2203.11683.pdf) |2022|
+|FusedMM |Fusedmm: A unified sddmm-spmm kernel for graph embedding and graph neural networks |[Paper](https://arxiv.org/pdf/2011.06391.pdf) |2021 IEEE|
+|ESSPMM |Accelerating spmm kernel with cache-first edge sampling for graph neural networks |[Paper](https://arxiv.org/pdf/2104.10716.pdf) |2021|
 |GKAT |Graph Consistency based Mean-Teaching for Unsupervised Domain Adaptive Person Re-Identification |[Paper](https://arxiv.org/pdf/2105.04776.pdf) |2021 IJCAI|
 |GNTK |Saliency Prediction with External Knowledge |[Paper](https://ieeexplore.ieee.org/document/9423113) |2021 WACV|
 |Node with GNTK |Learning student networks via feature embedding |[Paper](https://ieeexplore.ieee.org/document/9007474) |2020 TNNLS|
