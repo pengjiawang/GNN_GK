@@ -42,6 +42,5 @@ GNN_GK
 |KGAT |Fine-grained fact verification with kernel graph attention network |[Paper](https://arxiv.org/pdf/1910.09796.pdf) [Code](https://github.com/thunlp/KernelGAT)|2019|
 |KMAE |Kernel multi-attention neural network for knowledge graph embedding |[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121004500) |2021 Elsevier|
 |DHGK |A Deep Hybrid Graph Kernel Through Deep Learning Networks |[Paper](https://eprints.whiterose.ac.uk/132042/1/ICPR18_0789_FI.pdf) |2018 IEEE|
-|MLMKDNN |A multi-layer multi-kernel neural network for determining associations between non-coding RNAs and diseases |[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222004453) [Code](
-https://github.com/guofei-tju/MLMKDNN/tree/main/results)|2022 Elsevier|
+|MLMKDNN |A multi-layer multi-kernel neural network for determining associations between non-coding RNAs and diseases |[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222004453) [Code](https://github.com/guofei-tju/MLMKDNN/tree/main/results)|2022 Elsevier|
 # Citation
