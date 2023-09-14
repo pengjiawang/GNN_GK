@@ -1,6 +1,6 @@
 # GNN_GK
 GNN_GK
-- [Graph-based-Knowledge-Distillation](#graph-knowledge-distillation)
+- [Graph-Kernel-based-on-Graph-Nueral-Network](#Graph-Kernel-based-on-Graph-Nueral-Network)
   - [DKD](#dkd)
   - [GKD](#gkd)
   - [SKD](#skd)
@@ -11,36 +11,40 @@ GNN_GK
 ## DKD
 |Method|Title|Link|Time|
 |:---:|:---:|:---:|:---:|
-|IEP |Interpretable Embedding Procedure Knowledge Transfer via Stacked Principal Component Analysis and Graph Neural Network |[Paper](https://arxiv.org/pdf/2104.13561.pdf) |2021 AAAI|
-|HKD |Distilling Holistic Knowledge with Graph Neural Networks |[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Distilling_Holistic_Knowledge_With_Graph_Neural_Networks_ICCV_2021_paper.pdf) |2021 ICCV|
-|CAG |Context-Aware Graph Inference with Knowledge Distillation for Visual Dialog |[Paper](https://pubmed.ncbi.nlm.nih.gov/34061738/) |2021 TPAMI|
-|DKWISL |Distilling Knowledge from Well-Informed Soft Labels for Neural Relation Extraction |[Paper](https://ojs.aaai.org//index.php/AAAI/article/view/6509) |2020 AAAI |
-|KTG |Knowledge Transfer Graph for Deep Collaborative Learning  |[Paper](https://arxiv.org/pdf/1909.04286.pdf) |2019 ACCV|
-|MHGD |Graph-based Knowledge Distillation by Multi-head Attention Network |[Paper](https://arxiv.org/pdf/1907.02226.pdf) |2019 BMVC |
-|IRG |Knowledge Distillation via Instance Relationship Graph |[Paper](https://ieeexplore.ieee.org/document/8953802) |2019 CVPR |
-|DGCN |Binarized Collaborative Filtering with Distilling Graph Convolutional Networks |[Paper](https://arxiv.org/pdf/1906.01829.pdf) |2019 IJCAI|
-|GKD |Deep Geometric Knowledge Distillation with Graphs |[Paper](https://ieeexplore.ieee.org/document/9053986) |2019 ICASSP|
-|SPG |Spatio-Temporal Graph for Video Captioning With Knowledge Distillation |[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pan_Spatio-Temporal_Graph_for_Video_Captioning_With_Knowledge_Distillation_CVPR_2020_paper.pdf) | 2020 CVPR|
-|MorsE |Meta-Knowledge Transfer for Inductive Knowledge Graph Embedding |[Paper](https://arxiv.org/pdf/2110.14170.pdf) |2022 SIGIR|
-|GCLN |Dark Reciprocal-Rank: Teacher-to-student Knowledge Transfer from Self-localization Model to Graph-convolutional Neural Network |[Paper](https://ieeexplore.ieee.org/abstract/document/9561158) |2021 ICRA|
-|DOD |Deep Structured Instance Graph for Distilling Object Detectors |[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Deep_Structured_Instance_Graph_for_Distilling_Object_Detectors_ICCV_2021_paper.pdf) |2021 ICCV|
-|BAF |Better and Faster: Knowledge Transfer from Multiple Self-supervised Learning Tasks via Graph Distillation for Video Classification |[Paper](https://arxiv.org/pdf/1804.10069.pdf) |2018 IJCAI |
-|LAD |Language Graph Distillation for Low-Resource Machine Translation |[Paper](https://arxiv.org/pdf/1908.06258.pdf) |2019|
-|GD |Graph Distillation for Action Detection with Privileged Modalities |[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Zelun_Luo_Graph_Distillation_for_ECCV_2018_paper.pdf) |2018 ECCV|
-|GCMT |Graph Consistency based Mean-Teaching for Unsupervised Domain Adaptive Person Re-Identification |[Paper](https://arxiv.org/pdf/2105.04776.pdf) |2021 IJCAI|
-|GraSSNet |Saliency Prediction with External Knowledge |[Paper](https://ieeexplore.ieee.org/document/9423113) |2021 WACV|
-|LSN |Learning student networks via feature embedding |[Paper](https://ieeexplore.ieee.org/document/9007474) |2020 TNNLS|
-|IntRA-KD |Inter-Region Affinity Distillation for Road Marking Segmentation |[Paper](https://ieeexplore.ieee.org/document/9156309) |2020 CVPR|
-|RKD | Relational knowledge distillation |[Paper](https://ieeexplore.ieee.org/document/8954416) |2019 CVPR|
-|CC |Correlation congruence for knowledge distillation |[Paper](https://ieeexplore.ieee.org/document/9009071) |2019 ICCV|
-|SPKD|Similarity-preserving knowledge distillation |[Paper](https://ieeexplore.ieee.org/document/9010328) |2019 ICCV|
-|KDExplainer |KDExplainer: A Task-oriented Attention Model for Explaining Knowledge Distillation |[Paper](https://arxiv.org/abs/2105.04181) |2021 IJCAI|
-|TDD |Tree-like Decision Distillation |[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Song_Tree-Like_Decision_Distillation_CVPR_2021_paper.pdf) |2021 CVPR|
-|DualDE |DualDE: Dually Distilling Knowledge Graph Embedding for Faster and Cheaper Reasoning |[Paper](https://www.zhuanzhi.ai/paper/12c6a095c207373b5e207d3375290234) |2022 WSDM|
-|KCAN |Conditional Graph Attention Networks for Distilling and Refining Knowledge Graphs in Recommendation |[Paper](https://dl.acm.org/doi/10.1145/3459637.3482331) |2021 CIKM|
-|HKDIFM |Heterogeneous Knowledge Distillation using Information Flow Modeling |[Paper](https://ieeexplore.ieee.org/document/9157683) |2020 CVPR|
-
-
+|Kernel NN |Deriving neural architectures from sequence and graph kernels |[Paper]([https://arxiv.org/pdf/2104.13561.pdf](http://proceedings.mlr.press/v70/lei17a/lei17a.pdf)) |2021 AAAI|
+|Pre-DGCN |Distilling Holistic Knowledge with Graph Neural Networks |[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Distilling_Holistic_Knowledge_With_Graph_Neural_Networks_ICCV_2021_paper.pdf) |2021 ICCV|
+|KCNN |Context-Aware Graph Inference with Knowledge Distillation for Visual Dialog |[Paper](https://pubmed.ncbi.nlm.nih.gov/34061738/) |2021 TPAMI|
+|RWNN |Distilling Knowledge from Well-Informed Soft Labels for Neural Relation Extraction |[Paper](https://ojs.aaai.org//index.php/AAAI/article/view/6509) |2020 AAAI |
+|GKNN |Knowledge Transfer Graph for Deep Collaborative Learning  |[Paper](https://arxiv.org/pdf/1909.04286.pdf) |2019 ACCV|
+|VES |Graph-based Knowledge Distillation by Multi-head Attention Network |[Paper](https://arxiv.org/pdf/1907.02226.pdf) |2019 BMVC |
+|CKGCN |Knowledge Distillation via Instance Relationship Graph |[Paper](https://ieeexplore.ieee.org/document/8953802) |2019 CVPR |
+|GMKEA |Binarized Collaborative Filtering with Distilling Graph Convolutional Networks |[Paper](https://arxiv.org/pdf/1906.01829.pdf) |2019 IJCAI|
+|GCKN |Deep Geometric Knowledge Distillation with Graphs |[Paper](https://ieeexplore.ieee.org/document/9053986) |2019 ICASSP|
+|GSKN |Spatio-Temporal Graph for Video Captioning With Knowledge Distillation |[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pan_Spatio-Temporal_Graph_for_Video_Captioning_With_Knowledge_Distillation_CVPR_2020_paper.pdf) | 2020 CVPR|
+|TGNN |Meta-Knowledge Transfer for Inductive Knowledge Graph Embedding |[Paper](https://arxiv.org/pdf/2110.14170.pdf) |2022 SIGIR|
+|GraphHeat |Dark Reciprocal-Rank: Teacher-to-student Knowledge Transfer from Self-localization Model to Graph-convolutional Neural Network |[Paper](https://ieeexplore.ieee.org/abstract/document/9561158) |2021 ICRA|
+|KerGNNs |Deep Structured Instance Graph for Distilling Object Detectors |[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Deep_Structured_Instance_Graph_for_Distilling_Object_Detectors_ICCV_2021_paper.pdf) |2021 ICCV|
+|Twin-GNN |Better and Faster: Knowledge Transfer from Multiple Self-supervised Learning Tasks via Graph Distillation for Video Classification |[Paper](https://arxiv.org/pdf/1804.10069.pdf) |2018 IJCAI |
+|FusedMM |Language Graph Distillation for Low-Resource Machine Translation |[Paper](https://arxiv.org/pdf/1908.06258.pdf) |2019|
+|ESSPMM |Graph Distillation for Action Detection with Privileged Modalities |[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Zelun_Luo_Graph_Distillation_for_ECCV_2018_paper.pdf) |2018 ECCV|
+|GKAT |Graph Consistency based Mean-Teaching for Unsupervised Domain Adaptive Person Re-Identification |[Paper](https://arxiv.org/pdf/2105.04776.pdf) |2021 IJCAI|
+|GNTK |Saliency Prediction with External Knowledge |[Paper](https://ieeexplore.ieee.org/document/9423113) |2021 WACV|
+|Node with GNTK |Learning student networks via feature embedding |[Paper](https://ieeexplore.ieee.org/document/9007474) |2020 TNNLS|
+|Residuals GNTK |Inter-Region Affinity Distillation for Road Marking Segmentation |[Paper](https://ieeexplore.ieee.org/document/9156309) |2020 CVPR|
+|Fast GNTK | Relational knowledge distillation |[Paper](https://ieeexplore.ieee.org/document/8954416) |2019 CVPR|
+|WNTK |Correlation congruence for knowledge distillation |[Paper](https://ieeexplore.ieee.org/document/9009071) |2019 ICCV|
+|KP-GNN|Similarity-preserving knowledge distillation |[Paper](https://ieeexplore.ieee.org/document/9010328) |2019 ICCV|
+|AKGNN |KDExplainer: A Task-oriented Attention Model for Explaining Knowledge Distillation |[Paper](https://arxiv.org/abs/2105.04181) |2021 IJCAI|
+|RobustGCN |Tree-like Decision Distillation |[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Song_Tree-Like_Decision_Distillation_CVPR_2021_paper.pdf) |2021 CVPR|
+|GCMNK |DualDE: Dually Distilling Knowledge Graph Embedding for Faster and Cheaper Reasoning |[Paper](https://www.zhuanzhi.ai/paper/12c6a095c207373b5e207d3375290234) |2022 WSDM|
+|MKGCN |Conditional Graph Attention Networks for Distilling and Refining Knowledge Graphs in Recommendation |[Paper](https://dl.acm.org/doi/10.1145/3459637.3482331) |2021 CIKM|
+|GBKGNN |Heterogeneous Knowledge Distillation using Information Flow Modeling |[Paper](https://ieeexplore.ieee.org/document/9157683) |2020 CVPR|
+|BKGNN |Heterogeneous Knowledge Distillation using Information Flow Modeling |[Paper](https://ieeexplore.ieee.org/document/9157683) |2020 CVPR|
+|KW-GCN |Heterogeneous Knowledge Distillation using Information Flow Modeling |[Paper](https://ieeexplore.ieee.org/document/9157683) |2020 CVPR|
+|KGAT |Heterogeneous Knowledge Distillation using Information Flow Modeling |[Paper](https://ieeexplore.ieee.org/document/9157683) |2020 CVPR|
+|KMAE |Heterogeneous Knowledge Distillation using Information Flow Modeling |[Paper](https://ieeexplore.ieee.org/document/9157683) |2020 CVPR|
+|DHGK |Heterogeneous Knowledge Distillation using Information Flow Modeling |[Paper](https://ieeexplore.ieee.org/document/9157683) |2020 CVPR|
+|MLMKDNN |Heterogeneous Knowledge Distillation using Information Flow Modeling |[Paper](https://ieeexplore.ieee.org/document/9157683) |2020 CVPR|
 ## GKD
 |Method|Title|Link|Time|
 |:---:|:---:|:---:|:---:|
