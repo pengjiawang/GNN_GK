@@ -29,9 +29,8 @@ GNN_GK
 |ESSPMM |Accelerating spmm kernel with cache-first edge sampling for graph neural networks |[Paper](https://arxiv.org/pdf/2104.10716.pdf) |2021|
 |GKAT |Graph kernel attention transformers |[Paper]() |2021|
 |GNTK |Graph neural tangent kernel: Fusing graph neural networks with graph kernels |[Paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/663fd3c5144fd10bd5ca6611a9a5b92d-Paper.pdf) |2019 NeurIPS|
-|Node with GNTK |Learning student networks via feature embedding |[Paper](https://ieeexplore.ieee.org/document/9007474) ||
-|Residuals GNTK |Inter-Region Affinity Distillation for Road Marking Segmentation |[Paper](https://ieeexplore.ieee.org/document/9156309) ||
-|Fast GNTK | Fast Graph Neural Tangent Kernel via Kronecker Sketching |[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20662) |2022|
+|Node with GNTK |New Insights into Graph Convolutional Networks using Neural Tangent Kernels |[Paper](https://arxiv.org/pdf/2110.04060.pdf) |2021|
+|Residuals GNTK |LABEL PROPAGATION ACROSS GRAPHS: NODE CLASSIFICATION USING GRAPH NEURAL TANGENT KERNELS |[Paper](https://arxiv.org/pdf/2110.03763.pdf) |2022 IEEE|
 |WNTK |{Graph Neural Tangent Kernel: Convergence on Large Graphs |[Paper](https://arxiv.org/pdf/2301.10808.pdf) |2023|
 |KP-GNN|Node classification using kernel propagation in graph neural networks |[Paper](https://www.sciencedirect.com/science/article/pii/S0957417421000968) |2021 Elsevier|
 |AKGNN |Adaptive kernel graph neural network |[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20664) |2022|
@@ -40,11 +39,11 @@ GNN_GK
 |MKGCN |Inferring human microbe--drug associations via multiple kernel fusion on graph neural network |[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121010546) |2022 Elsevier|
 |GBKGNN |GBK-GNN: Gated Bi-Kernel Graph Neural Networks for Modeling Both Homophily and Heterophily |[Paper](https://arxiv.org/pdf/2110.15777.pdf) |2022|
 |BKGNN |Bi-Kernel Graph Neural Network with Adaptive Propagation Mechanism for Hyperspectral Image Classification |[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121010546) |2020 Multidisciplinary Digital Publishing Institute|
-|KW-GCN |Heterogeneous Knowledge Distillation using Information Flow Modeling |[Paper](https://ieeexplore.ieee.org/document/9157683) |2020 CVPR|
-|KGAT |Heterogeneous Knowledge Distillation using Information Flow Modeling |[Paper](https://ieeexplore.ieee.org/document/9157683) |2020 CVPR|
-|KMAE |Heterogeneous Knowledge Distillation using Information Flow Modeling |[Paper](https://ieeexplore.ieee.org/document/9157683) |2020 CVPR|
-|DHGK |Heterogeneous Knowledge Distillation using Information Flow Modeling |[Paper](https://ieeexplore.ieee.org/document/9157683) |2020 CVPR|
-|MLMKDNN |Heterogeneous Knowledge Distillation using Information Flow Modeling |[Paper](https://ieeexplore.ieee.org/document/9157683) |2020 CVPR|
+|KW-GCN |Kernel-weighted graph convolutional network: A deep learning approach for traffic forecasting |[Paper](https://ieeexplore.ieee.org/abstract/document/8545106) |2018 IEEE|
+|KGAT |Fine-grained fact verification with kernel graph attention network |[Paper](https://arxiv.org/pdf/1910.09796.pdf) |2019|
+|KMAE |Kernel multi-attention neural network for knowledge graph embedding |[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121004500) |2021 Elsevier|
+|DHGK |A Deep Hybrid Graph Kernel Through Deep Learning Networks |[Paper](https://eprints.whiterose.ac.uk/132042/1/ICPR18_0789_FI.pdf) |2018 IEEE|
+|MLMKDNN |A multi-layer multi-kernel neural network for determining associations between non-coding RNAs and diseases |[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222004453) |2022 Elsevier|
 ## GKD
 |Method|Title|Link|Time|
 |:---:|:---:|:---:|:---:|
