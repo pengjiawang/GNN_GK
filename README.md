@@ -33,7 +33,7 @@ GNN_GK
 |WNTK |{Graph Neural Tangent Kernel: Convergence on Large Graphs |[Paper](https://arxiv.org/pdf/2301.10808.pdf) |2023|
 |KP-GNN|Node classification using kernel propagation in graph neural networks |[Paper](https://www.sciencedirect.com/science/article/pii/S0957417421000968) [Code](https://github.com/AiPEX-Lab/Kernel-Propagation-in-Graph-Neural)|2021 Elsevier|
 |AKGNN |Adaptive kernel graph neural network |[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20664) [Code](https://github.com/jumxglhf/AKGNN) |2022|
-|RobustGCN |Node feature kernels increase graph convolutional network robustness |[Paper](https://proceedings.mlr.press/v151/el-amine-seddik22a/el-amine-seddik22a.pdf) [Code]https://github.com/ChangminWu/RobustGCN)|2022 PMLR|
+|RobustGCN |Node feature kernels increase graph convolutional network robustness |[Paper](https://proceedings.mlr.press/v151/el-amine-seddik22a/el-amine-seddik22a.pdf) [Code](https://github.com/ChangminWu/RobustGCN)|2022 PMLR|
 |GCMNK |Predicting drug--drug interactions by graph convolutional network with multi-kernel |[Paper](https://academic.oup.com/bib/article-abstract/23/1/bbab511/6447677?login=false) |2022 Oxford University Press|
 |MKGCN |Inferring human microbe--drug associations via multiple kernel fusion on graph neural network |[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121010546) [Code](https://github.com/guofei-tju/MKGCN)|2022 Elsevier|
 |GBKGNN |GBK-GNN: Gated Bi-Kernel Graph Neural Networks for Modeling Both Homophily and Heterophily |[Paper](https://arxiv.org/pdf/2110.15777.pdf) |2022|
