@@ -11,7 +11,7 @@ GNN_GK
 ## DKD
 |Method|Title|Link|Time|
 |:---:|:---:|:---:|:---:|
-|Kernel NN |Deriving neural architectures from sequence and graph kernels |[Paper]([https://arxiv.org/pdf/2104.13561.pdf](http://proceedings.mlr.press/v70/lei17a/lei17a.pdf)) |2021 AAAI|
+|Kernel NN |Deriving neural architectures from sequence and graph kernels |[Paper](http://proceedings.mlr.press/v70/lei17a/lei17a.pdf) |2021 AAAI|
 |Pre-DGCN |Distilling Holistic Knowledge with Graph Neural Networks |[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Distilling_Holistic_Knowledge_With_Graph_Neural_Networks_ICCV_2021_paper.pdf) |2021 ICCV|
 |KCNN |Context-Aware Graph Inference with Knowledge Distillation for Visual Dialog |[Paper](https://pubmed.ncbi.nlm.nih.gov/34061738/) |2021 TPAMI|
 |RWNN |Distilling Knowledge from Well-Informed Soft Labels for Neural Relation Extraction |[Paper](https://ojs.aaai.org//index.php/AAAI/article/view/6509) |2020 AAAI |
