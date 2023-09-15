@@ -32,7 +32,7 @@ We refer to other review collation methods and provide relevant GitHub to facili
 |GKAT |Graph kernel attention transformers |[Paper](https://arxiv.org/pdf/2107.07999.pdf) |2021|
 |GNTK |Graph neural tangent kernel: Fusing graph neural networks with graph kernels |[Paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/663fd3c5144fd10bd5ca6611a9a5b92d-Paper.pdf) [Code](https://github.com/KangchengHou/gntk)|2019 NeurIPS|
 |Node with GNTK |New Insights into Graph Convolutional Networks using Neural Tangent Kernels |[Paper](https://arxiv.org/pdf/2110.04060.pdf) |2021|
-|Residuals GNTK |LABEL PROPAGATION ACROSS GRAPHS: NODE CLASSIFICATION USING GRAPH NEURAL TANGENT KERNELS |[Paper](https://arxiv.org/pdf/2110.03763.pdf) |2022 IEEE|
+|Residuals GNTK |Label Propagation Across Graphs: Node Classification Using Graph Neural Tangent Kernels |[Paper](https://arxiv.org/pdf/2110.03763.pdf) |2022 IEEE|
 |WNTK |Graph Neural Tangent Kernel: Convergence on Large Graphs |[Paper](https://arxiv.org/pdf/2301.10808.pdf) |2023 ICML|
 |KP-GNN|Node classification using kernel propagation in graph neural networks |[Paper](https://www.sciencedirect.com/science/article/pii/S0957417421000968) [Code](https://github.com/AiPEX-Lab/Kernel-Propagation-in-Graph-Neural)|2021 Elsevier|
 |AKGNN |Adaptive kernel graph neural network |[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20664) [Code](https://github.com/jumxglhf/AKGNN) |2022 AAAI|
