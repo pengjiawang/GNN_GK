@@ -35,8 +35,9 @@ We refer to other review collation methods and provide relevant GitHub to facili
 |Residuals GNTK |Label Propagation Across Graphs: Node Classification Using Graph Neural Tangent Kernels |[Paper](https://arxiv.org/pdf/2110.03763.pdf) |2022 IEEE|
 |WNTK |Graph Neural Tangent Kernel: Convergence on Large Graphs |[Paper](https://arxiv.org/pdf/2301.10808.pdf) |2023 ICML|
 |KP-GNN|Node classification using kernel propagation in graph neural networks |[Paper](https://www.sciencedirect.com/science/article/pii/S0957417421000968) [Code](https://github.com/AiPEX-Lab/Kernel-Propagation-in-Graph-Neural)|2021 Elsevier|
+|Poisson kernel|Poisson kernel: Avoiding self-smoothing in graph convolutional networks |[Paper](https://arxiv.org/ftp/arxiv/papers/2002/2002.02589.pdf) |2022 Elsevier|
 |AKGNN |Adaptive kernel graph neural network |[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20664) [Code](https://github.com/jumxglhf/AKGNN) |2022 AAAI|
-|RobustGCN |Node feature kernels increase graph convolutional network robustness |[Paper](https://proceedings.mlr.press/v151/el-amine-seddik22a/el-amine-seddik22a.pdf) [Code](https://github.com/ChangminWu/RobustGCN)|2022 PMLR|
+|Robust-GCN |Node feature kernels increase graph convolutional network robustness |[Paper](https://proceedings.mlr.press/v151/el-amine-seddik22a/el-amine-seddik22a.pdf) [Code](https://github.com/ChangminWu/RobustGCN)|2022 PMLR|
 |GCMNK |Predicting drug--drug interactions by graph convolutional network with multi-kernel |[Paper](https://academic.oup.com/bib/article-abstract/23/1/bbab511/6447677?login=false) |2022 Oxford University Press|
 |MKGCN |Inferring human microbe--drug associations via multiple kernel fusion on graph neural network |[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121010546) [Code](https://github.com/guofei-tju/MKGCN)|2022 Elsevier|
 |GBKGNN |GBK-GNN: Gated Bi-Kernel Graph Neural Networks for Modeling Both Homophily and Heterophily |[Paper](https://arxiv.org/pdf/2110.15777.pdf) |2022 WWW|
@@ -46,4 +47,6 @@ We refer to other review collation methods and provide relevant GitHub to facili
 |KMAE |Kernel multi-attention neural network for knowledge graph embedding |[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121004500) |2021 Elsevier|
 |DHGK |A Deep Hybrid Graph Kernel Through Deep Learning Networks |[Paper](https://eprints.whiterose.ac.uk/132042/1/ICPR18_0789_FI.pdf) |2018 IEEE|
 |MLMKDNN |A multi-layer multi-kernel neural network for determining associations between non-coding RNAs and diseases |[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222004453) [Code](https://github.com/guofei-tju/MLMKDNN/tree/main/results)|2022 Elsevier|
+|GMDHNN |Multiple graph kernel learning based on GMDH-type neural network |[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253520303602) |2021 Elsevier|
+
 # Citation
