@@ -1,6 +1,6 @@
 # GNN_GK
 GNN_GK
-- [Graph-Nueral-Network-based-on-Graph-Kernel](#Graph-Nueral-Network-based-on-Graph-Kernel)
+- [Graph-Neural-Network-based-on-Graph-Kernel](#Graph-Neural-Network-based-on-Graph-Kernel)
   - [INTRODUCE](#introduce)
   - [PAPER](#paper)
 - [Citation](#citation)
