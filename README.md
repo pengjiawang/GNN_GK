@@ -8,6 +8,7 @@ GNN_GK
 
 ## INTRODUCE
 A survey : graph neural network based on graph kernel
+
 We refer to other review collation methods and provide relevant GitHub to facilitate readers' access to recent graph kernel based on graph neural network model papers and open source code.
 ## PAPER
 |Method|Title|Link|Time|
